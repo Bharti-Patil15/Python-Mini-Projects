@@ -7,12 +7,12 @@ This project is developed using Core Python concepts, especially dictionaries, l
 
 ## Features
 
-1. **Add Student:** Add a new student with their name and marks.
-2. **View Students:** Display all student records.
-3. **Check Results:** Check whether a student has passed or failed.
-4. **Update Student:** Update the marks of an existing student.
-5. **Delete Student:** Delete a student record.
-6. **Exit:** Exit the program.
+1.Add Student: Add a new student with their name and marks.
+2.View Students: Display all student records.
+3.Check Results: Check whether a student has passed or failed.
+4.Update Student: Update the marks of an existing student.
+5.Delete Student: Delete a student record.
+6.Exit:Exit the program.
 
 ## Technologies Used
 
@@ -42,7 +42,7 @@ python student_management.py
 
 ## Example
 
-```text
+text
 1. Add Student
 2. View Students
 3. Check Results
@@ -54,7 +54,7 @@ Enter your choice: 1
 Enter student name: Student A
 Enter student marks: 56
 Student Student A added successfully.
-```
+
 
 ## Learning Outcomes
 
